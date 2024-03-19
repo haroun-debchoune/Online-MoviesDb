@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MovieApp</string>
+    <string name="movies">Movies</string>
+    <string name="api_key">5c17867fc2d1fbf055ef1dd52222bc12</string>
+    <string name="film_name">Film name</string>
+    <string name="popular_movies">Popular Movies</string>
+    <string name="description">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex...</string>
+</resources>
